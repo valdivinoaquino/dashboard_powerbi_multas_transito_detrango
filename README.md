@@ -35,14 +35,12 @@ Para demonstrar a interatividade e a riqueza de detalhes do projeto, incluímos 
 * **KPIs e Filtros:** Demonstração do painel de controle e das opções de segmentação.
 * **Tooltip em Ação:** Visualização do *drill-down* ao passar o mouse sobre o mapa.
 
-<img width="1777" height="171" alt="image" src="https://github.com/user-attachments/assets/ed7ade20-557f-485e-9d0d-5ac64369b646" />
-...
 <img width="1776" height="1011" alt="image" src="https://github.com/user-attachments/assets/ad9ccaf8-80fa-46d4-8cf3-8ac4d555da02" />
 ...
 <img width="1781" height="1011" alt="image" src="https://github.com/user-attachments/assets/eaad61f2-1429-42d7-95b5-df8a92b34e27" />
 
 ## ✒️ Autor
 
-| [![GitHub](https://img.shields.io/badge/GitHub-[SeuUser]-100000?style=for-the-badge&logo=github)](https://github.com/[SeuUser]) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valdivino-aquino-ti-goiania) |
+| [![GitHub](https://img.shields.io/badge/GitHub-[SeuUser]-100000?style=for-the-badge&logo=github)](https://github.com/[SeuUser]) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-valdivinoaquino-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valdivino-aquino-ti-goiania) |
 | :---: | :---: |
 | **[Valdivino Aquino]** | *Especialista em Análise de Dados - Tecnologia da Informação* |
