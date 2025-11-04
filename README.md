@@ -42,6 +42,6 @@ Para demonstrar a interatividade e a riqueza de detalhes do projeto, incluímos 
 
 ## ✒️ Autor
 
-| [![GitHub](https://img.shields.io/badge/GitHub-[SeuUser]-100000?style=for-the-badge&logo=github)](https://github.com/[SeuUser]) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valdivino Aquino-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valdivino-aquino-ti-goiania) |
+| [![GitHub](https://img.shields.io/badge/GitHub-[SeuUser]-100000?style=for-the-badge&logo=github)](https://github.com/[SeuUser]) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valdivino-aquino-ti-goiania) |
 | :---: | :---: |
 | **[Valdivino Aquino]** | *Especialista em Análise de Dados - Tecnologia da Informação* |
