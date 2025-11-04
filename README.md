@@ -3,7 +3,8 @@
 
 ## 🖼️ Visão Geral do Dashboard
 
-[Insira aqui a imagem principal do seu Dashboard (Versão Final)]
+<img width="1778" height="1013" alt="image" src="https://github.com/user-attachments/assets/5d886451-1a1b-460e-8959-a231bfc13204" />
+
 ## 🎯 Objetivo do Projeto
 
 Este projeto visa transformar dados brutos de infrações de trânsito [] em insights visuais e acionáveis, utilizando o Microsoft Power BI. O foco é monitorar e analisar o comportamento das infrações, identificando padrões de gravidade, veículos envolvidos e horários de maior ocorrência.
